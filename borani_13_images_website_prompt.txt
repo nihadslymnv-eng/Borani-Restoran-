@@ -1,0 +1,83 @@
+BORANI RESTORAN — PREMIUM WEBSITE PROMPT
+
+Create a premium, modern, elegant restaurant website for Boranı Restoran using ALL 13 uploaded reference images as visual/content references.
+
+IMPORTANT:
+- Use all 13 uploaded images in the website where appropriate.
+- Do not ignore any of the reference images.
+- Do not replace the restaurant with a fictional restaurant.
+- Preserve the real restaurant's visual identity, atmosphere, interior/exterior appearance, and food presentation shown in the references.
+- Use the food/menu images as the actual visual references for the menu section.
+- Do not invent dishes, food photographs, restaurant details, prices, addresses, ratings, reviews, or other information that are not provided in the references.
+- Do not alter the food into different dishes.
+- Do not create fake customer reviews.
+- Do not use stock photos when a supplied reference image can be used.
+- Do not add unrelated businesses or branding.
+- Do not add visible AI-generated watermarks.
+- Make the website fully responsive for desktop, tablet, and mobile.
+- The design must feel like a real premium restaurant website, not a generic template.
+
+DESIGN DIRECTION:
+Create a sophisticated, clean, high-end restaurant aesthetic with strong food photography.
+Use generous spacing, elegant typography, refined animations, subtle hover effects, and a clear visual hierarchy.
+Avoid an overly colorful, childish, crowded, or generic design.
+The website should look professional enough for a real restaurant business.
+
+HOMEPAGE:
+1. HERO SECTION
+- Use the strongest suitable restaurant reference image as the hero background.
+- Add a premium restaurant-focused headline and short supporting text.
+- Include clear buttons such as “View Menu” and “Contact / Directions”.
+- Keep the hero visually clean and cinematic.
+
+2. RESTAURANT INTRODUCTION
+- Introduce Boranı Restoran using only information supported by the supplied references.
+- Use a suitable interior/exterior restaurant image.
+- Emphasize the atmosphere, dining experience, and food quality without making unsupported claims.
+
+3. MENU SECTION
+- Create a beautiful premium menu grid.
+- Use the supplied menu/food images as the actual food images.
+- Each food card should contain the dish name only when it is clearly supported by the references.
+- Make the images large, sharp, properly cropped, and visually consistent.
+- Do not distort food images.
+- Add subtle hover animations.
+
+4. GALLERY
+- Create a visual gallery using the supplied restaurant/interior/food images.
+- Use a tasteful masonry or editorial-style layout.
+- Preserve the original appearance of the supplied photographs.
+
+5. CONTACT / LOCATION
+- Create a clear contact section.
+- Include only contact/location information that is explicitly available in the supplied references.
+- Add a prominent directions/map button if appropriate.
+- Do not invent missing contact details.
+
+6. FOOTER
+- Include Boranı Restoran branding/name.
+- Include navigation links.
+- Include contact/social links only when supported by the supplied references.
+- Keep the footer minimal and premium.
+
+USER EXPERIENCE:
+- Smooth scrolling.
+- Responsive navigation menu.
+- Fast-loading optimized images.
+- Lazy-load images below the fold.
+- Use WebP images when available.
+- Maintain good accessibility and readable contrast.
+- Buttons must work.
+- Navigation links must work.
+- The menu/gallery should be easy to browse on mobile.
+- Avoid excessive animations that slow the page.
+
+VISUAL CONSISTENCY:
+Treat the 13 uploaded images as a single reference set.
+The website should feel as though all photographs belong to the same real restaurant.
+Do not change the restaurant's architecture, food appearance, furniture, colors, or atmosphere unnecessarily.
+
+FINAL RESULT:
+Build a complete, polished, premium restaurant website for Boranı Restoran that looks custom-designed rather than AI-generated.
+Use the 13 supplied images throughout the website intelligently and consistently.
+Do not leave placeholder images where one of the supplied references can be used.
